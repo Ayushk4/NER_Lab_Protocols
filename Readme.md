@@ -1,4 +1,4 @@
-## Domain specific BERT representation for Named Entity Recognition of lab protocol
+# Named Entity Recognition of lab protocols
 Authors: [Ayush Kaushal](https://github.com/Ayushk4)  and [Tejas Vaidhya](https://github.com/tejasvaidhyadev)
 
 Code for the system that secured 4 runner up at EMNLP 2020 workshop WNUT Shared Task-3
